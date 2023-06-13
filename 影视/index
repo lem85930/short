@@ -4,15 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>影视TV</title>
+    <link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/tailwindcss/2.2.19/tailwind.min.css">
+    <link rel="stylesheet" href="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/Swiper/8.0.6/swiper-bundle.min.css" />
+    <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/Swiper/8.0.6/swiper-bundle.min.js"></script>
+    <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/limonte-sweetalert2/11.4.4/sweetalert2.all.min.js"></script>
+    <link href="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/limonte-sweetalert2/11.4.4/sweetalert2.min.css" rel="stylesheet" />
+<!--
     <link rel="icon" type="image/png" href="http://short.ewwe.gq/gh/lystv/short@main/影视/img/ys.jpg">
     <link href="http://short.ewwe.gq/gh/lystv/short@main/影视/css/sweetalert2.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="http://short.ewwe.gq/gh/lystv/short@main/影视/css/tailwind.min.css">
     <link rel="stylesheet" href="http://short.ewwe.gq/gh/lystv/short@main/影视/css/swiper-bundle.min.css" />
+    <script src="http://short.ewwe.gq/gh/lystv/short@main/影视/js/swiper-bundle.min.js"></script>
+    <script src="http://short.ewwe.gq/gh/lystv/short@main/影视/js/sweetalert2.all.min.js"></script>
+    -->
     <link rel="stylesheet" href="http://short.ewwe.gq/gh/lystv/short@main/影视/css/daohang.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="http://short.ewwe.gq/gh/lystv/short@main/影视/js/daohang.js"></script>
-    <script src="http://short.ewwe.gq/gh/lystv/short@main/影视/js/swiper-bundle.min.js"></script>
-    <script src="http://short.ewwe.gq/gh/lystv/short@main/影视/js/sweetalert2.all.min.js"></script>
+    
 </head>
 <body class="bg-gray-200 text-gray-800">
     <!-- 导航栏 -->
