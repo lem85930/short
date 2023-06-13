@@ -1,7 +1,6 @@
 {
-    "spider": "./fm.jar",
+    "spider": "",
     "lives": [
-    
         {
             "name": "油管",
             "type": 0,
@@ -11,23 +10,29 @@
         }
     ],
     "sites": [
- 
-     { 
-   "key": "MTV转点播", 
-   "name": "MTV转换", 
-   "type": 3, 
-   "api": "./lf_live_min.js", 
-   "ext": "./lf_live_min.txt" 
-  },
-    { 
-   "key": "直播转点播", 
-   "name": "直播转换", 
-   "type": 3, 
-   "api": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播转点播.js", 
-   "ext": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播.js" 
-  },
-  {"key": "*非凡","name": "非凡","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
-
+        {
+            "key": "MTV转点播",
+            "name": "MTV转换",
+            "type": 3,
+            "api": "./lf_live_min.js",
+            "ext": "./lf_live_min.txt"
+        },
+        {
+            "key": "直播转点播",
+            "name": "直播转换",
+            "type": 3,
+            "api": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播转点播.js",
+            "ext": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播.js"
+        },
+        {
+            "key": "*非凡",
+            "name": "非凡",
+            "type": 0,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        }
     ],
     "parses": [
         {
