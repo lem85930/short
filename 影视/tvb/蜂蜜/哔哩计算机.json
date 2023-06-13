@@ -1,0 +1,299 @@
+{
+  "cookie": "buvid3=723343AE-B8C5-DB65-E20A-C82503EA803674739infoc;b_nut=1667230874;bsource=search_baidu;_uuid=FA2FF210E-38D5-8F68-9737-510C431069119176891infoc;buvid4=772BC7C4-2372-B284-95FA-B5C069F0642D76919-022103123-QRnnXhAaqZCYzL1Ow0gIJg%3D%3D;fingerprint=2c66e23ecebcc34e8965fba88a72f395;buvid_fp_plain=undefined;DedeUserID=1189724695;DedeUserID__ckMd5=bdac395a47ceb8fb;CURRENT_QUALITY=80;buvid_fp=2c66e23ecebcc34e8965fba88a72f395;rpdid=|(umR)|Rklkl0J'uY~|mukulu;CURRENT_FNVAL=4048;LIVE_BUVID=AUTO5716779026525775;innersign=0;SESSDATA=13a23fc9%2C1693454766%2C6244f%2A32;bili_jct=11c5888f531c2dd2e3b6cb9ab1abd4c2;sid=6j4xepjr;PVID=2;b_lsid=4E10A3877_186AC12D636;_dfcaptcha=d3b389c646b299ca4c1f089574c8a757",
+  "classes": [
+  
+  {
+      "type_name": "Java开发",
+      "type_id": "Java开发"
+    },
+    {
+      "type_name": "Android开发",
+      "type_id": "Android开发"
+    },
+    {
+      "type_name": "C语言",
+      "type_id": "C语言开发"
+    },
+    {
+      "type_name": "shell",
+      "type_id": "shell"
+    },
+    {
+      "type_name": "Python开发",
+      "type_id": "Python开发"
+    }
+  ],
+  "filter": {
+    
+    "Java开发": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "全部",
+            "v": "Java开发"
+          },
+          {
+            "n": "入门",
+            "v": "Java基础"
+          },
+          {
+            "n": "进阶",
+            "v": "Java进阶"
+          },
+          {
+            "n": "高级",
+            "v": "Java高级"
+          },
+          {
+            "n": "实战",
+            "v": "Java项目实战"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ],
+	"Android开发": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "全部",
+            "v": "Android开发"
+          },
+          {
+            "n": "入门",
+            "v": "Android基础"
+          },
+          {
+            "n": "进阶",
+            "v": "Android进阶"
+          },
+          {
+            "n": "高级",
+            "v": "Android高级"
+          },
+          {
+            "n": "实战",
+            "v": "Android项目实战"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ],
+    "shell": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "全部",
+            "v": "shell"
+          },
+          {
+            "n": "入门",
+            "v": "shell基础"
+          },
+          {
+            "n": "进阶",
+            "v": "shell进阶"
+          },
+          {
+            "n": "高级",
+            "v": "shell高级"
+          },
+          {
+            "n": "实战",
+            "v": "shell项目实战"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ],
+	"C语言开发": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "全部",
+            "v": "C语言开发"
+          },
+          {
+            "n": "入门",
+            "v": "C语言基础"
+          },
+          {
+            "n": "进阶",
+            "v": "C语言进阶"
+          },
+          {
+            "n": "高级",
+            "v": "C语言高级"
+          },
+          {
+            "n": "实战",
+            "v": "C语言项目实战"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ],
+	"Python开发": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "全部",
+            "v": "Python开发"
+          },
+          {
+            "n": "入门",
+            "v": "Python基础"
+          },
+          {
+            "n": "进阶",
+            "v": "Python进阶"
+          },
+          {
+            "n": "高级",
+            "v": "Python高级"
+          },
+          {
+            "n": "实战",
+            "v": "Python项目实战"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ]
+  }
+}
