@@ -132,7 +132,7 @@ echo $xs;
         <h2 style="font-size:20px;font-weight: bold;">影视APP简介：
         </h2>
         <?php
-            $tvb="https://cdn.jsdelivr.net/gh/lystv/short@main/影视/ysjs.txt";
+            $tvb="https://raw.lytv.gq/影视/ysjs.txt";
             $text = file_get_contents($tvb); // 读取文本文件的内容
             $text = nl2br($text); // 将文本中的换行符替换为 <br> 标签
             echo $text; // 使用 echo 输出带有 <br> 标签的文本内容
@@ -155,7 +155,7 @@ echo $xs;
              <!-- 卡片 1 -->
              <div data-config="http://饭太硬.top/tv"
                 class="hover:bg-gray-200 transition-all duration-150 bg-white shadow rounded-lg p-4 cursor-pointer flex flex-col justify-center items-center">
-                <img class="w-1/3 mx-auto rounded-lg" src="https://cdn.jsdelivr.net/gh/lystv/short@main/影视/img/ys.jpg" alt="Card Image" class="w-full">
+                <img class="w-1/3 mx-auto rounded-lg" src="./影视/img/ys.jpg" alt="Card Image" class="w-full">
                 <p class="text-center mt-2">飯總</p>
             </div>
             <!-- 卡片 2 -->
