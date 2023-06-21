@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>影视TV</title>
+    <title>影视TV*正式版</title>
     <link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/tailwindcss/2.2.19/tailwind.min.css">
     <link rel="stylesheet" href="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/Swiper/8.0.6/swiper-bundle.min.css" />
     <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/Swiper/8.0.6/swiper-bundle.min.js"></script>
@@ -28,7 +28,7 @@
     <nav class="bg-white shadow-lg">
   <div class="container mx-auto flex justify-between py-4 px-8">
     <!-- 左边首页链接 -->
-    <a href="/" title="首頁">
+    <a href="/nc/" title="内测版">
       <img src="https://cdn.jsdelivr.net/gh/lystv/short@main/影视/img/ys.jpg" alt="logo" class="h-6 sm:h-12 lg:h-16">
     </a>
 
