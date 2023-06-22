@@ -15,3 +15,11 @@ https://ghproxy.com/https://github.com/lystv/short/raw/main/影视/MTV.txt
 #油管直播
 ./yt.txt
 
+#MTV曲库
+https://go.owen10086.repl.co/upload/TVBox/点歌/MTV曲库.txt
+
+#太阳
+http://111.67.196.181/zhibo.txt
+
+#玩偶
+https://github.com/YanG-1989/m3u/blob/main/Adult.m3u
