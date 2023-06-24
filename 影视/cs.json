@@ -19,6 +19,20 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "M8V",
+      "name": "小武8MTV",
+      "type": 3,
+      "api": "https://qu.ax/erVy.js",
+      "ext":"https://qu.ax/gxhY.txt"
+    },
+    {
+      "key": "MV",
+      "name": "小武9MTV",
+      "type": 3,
+      "api": "https://qu.ax/bzoe.js",
+      "ext":"https://qu.ax/gxhY.txt"
+    },
         {
             "key": "MTV转点播",
             "name": "MTV转换",
